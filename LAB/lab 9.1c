@@ -4,7 +4,7 @@ int main()
 {
     int num;
 
-    FILE *fp = fopen("Students.json", "w");
+    FILE *fp = fopen("askisi1.txt", "w");
 
     if (fp == NULL)
     {
