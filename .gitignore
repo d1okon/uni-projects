@@ -59,6 +59,10 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 # ========================
+# General Practice
+# ========================
+/GENERAL_PRACTICE
+# ========================
 # Python Practice
 # ========================
 /PYTHON/PRACTICE/
