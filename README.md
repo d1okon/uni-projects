@@ -6,7 +6,7 @@ A collection of C programming projects and lab exercises completed during my uni
 
 ## 🗂️ Structure
 
-The repo is organized by semester and lab session. Each lab folder contains a `.c` source file with the solution and a `README.md` describing the exercise and approach.
+The repo is organized by semester and lab session. Each lab folder contains a `.c / .py` source file with the solution and a `README.md` describing the exercise and approach.
 
 ---
 
@@ -28,6 +28,7 @@ gcc filename.c -o output
 ```
 
 Example:
+
 ```bash
 cd LAB/LAB10/lab10.1
 gcc lab10.1.c -o lab10.1
