@@ -58,3 +58,7 @@ $RECYCLE.BIN/
 *.log
 *.tmp
 *.bak
+# ========================
+# Python Practice
+# ========================
+/PYTHON/PRACTICE/
